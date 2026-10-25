@@ -16,7 +16,7 @@ This table lists all instances that could be found where the IRS requires or req
 
 ### Mandatory Free-Text Attachments (699)
 
-| Source | Brief Context | Actual operative text | Also at |
+| Source | Brief Context<br><img width="400" height="1"> | Actual operative text | Also at |
 |---|---|---|---|
 | [Form 11-C, at 3](https://www.irs.gov/pub/irs-pdf/f11c.pdf) | Form 11-C instructions, Penalties (and the parallel penalty paragraphs in the instructions for Forms 730, 940, 941, 943-X, 944-X, 945, 945-X, 990-T, CT-1 and CT-1X). A filer who receives a penalty notice after filing replies with an explanation so the IRS can determine whether reasonable cause exists; the explanation is not attached to the return. | If you receive a notice about a penalty after you file this return, reply to the notice with an explanation and we will determine if you meet reasonable-cause criteria. | <sub>Form 730, at 4; Instructions for Form 940, at 7; Instructions for Form 941, at 9; Instructions for Form 943-X, at 8; Instructions for Form 944-X, at 7; Instructions for Form 945, at 4; Instructions for Form 945-X, at 4; Instructions for Form 990-T, at 6; Instructions for Form CT-1, at 6; Instructions for Form CT-1X, at 5; Instructions for Form 1041, at 11; Instructions for Form 1041-N, at 3; Instructions for Form 1041-QFT, at 3; Instructions for Form 1066, at 4; Instructions for Form 1120-IC-DISC, at 6; Instructions for Form 7004, at 2; Instructions for Form 8868, at 2; Instructions for Form 720, at 2; Instructions for Form 8804, 8805 and 8813, at 6; Instructions for Form 941-X, at 9; Instructions for Form 943, at 8; Instructions for Form 944, at 8</sub> |
 | [Form 433-A, at 6](https://www.irs.gov/pub/irs-pdf/f433a.pdf) | Form 433-A (Collection Information Statement), page 6, line 24 (Net Business Income) and its note 2. If the monthly net business income entered is more or less than in previous years, the taxpayer attaches an explanation of the change. | If the net business income is a loss, enter “0”. Do not enter a negative number. If this amount is more or less than previous years, attach an explanation. |  |
@@ -720,7 +720,7 @@ This table lists all instances that could be found where the IRS requires or req
 
 ### Mandatory Free-Text in Form, Attachment if Long (537)
 
-| Source | Brief Context | Actual operative text | Also at |
+| Source | Brief Context<br><img width="400" height="1"> | Actual operative text | Also at |
 |---|---|---|---|
 | [Form 11-C, at 2](https://www.irs.gov/pub/irs-pdf/f11c.pdf) | Form 11-C, Part IV, line 7. A person filing a supplemental wagering registration explains why it is filing the supplemental registration and gives the date of the event. | Explain why you’re filing a supplemental registration. Include the date of the event. |  |
 | [Form 637, at 1](https://www.irs.gov/pub/irs-pdf/f637.pdf) | Form 637, Section B, line 8. An applicant for registration for listed fuel activities describes any changes in its ownership or controlling stock ownership in the past 2 years (or enters “None”). | 8 Describe any changes in your ownership or changes of controlling stock ownership in the past 2 years. If none, enter “None.” |  |
@@ -1262,7 +1262,7 @@ This table lists all instances that could be found where the IRS requires or req
 
 ### Mandatory Free-Text in Form, Attachment Not Contemplated (26)
 
-| Source | Brief Context | Actual operative text | Also at |
+| Source | Brief Context<br><img width="400" height="1"> | Actual operative text | Also at |
 |---|---|---|---|
 | [Form 5129, at 1](https://www.irs.gov/pub/irs-pdf/f5129.pdf) | Form 5129 (Questionnaire—Filing Status, Exemptions, and Standard Deduction), Section III. A taxpayer responding to the IRS questionnaire who has changed any of the listed dependent or standard-deduction items uses the back of the form to explain the entries. | If you need additional space or have made changes to any of these items, please use the back of this form to continue and/or explain your entries. |  |
 | [Form 9210, at 1](https://www.irs.gov/pub/irs-pdf/f9210.pdf) | Form 9210 (Alien Status Questionnaire), item 9. An alien taxpayer answering the IRS questionnaire about alien status who ever applied for or was granted lawful permanent residence (a green card) explains. | 9. Did you ever apply for and/or have been granted lawful permanent residence in the United States (hold a Green Card) If Yes, explain |  |
@@ -1293,7 +1293,7 @@ This table lists all instances that could be found where the IRS requires or req
 
 ### Optional Free-Text Attachments (38)
 
-| Source | Brief Context | Actual operative text | Also at |
+| Source | Brief Context<br><img width="400" height="1"> | Actual operative text | Also at |
 |---|---|---|---|
 | [Form 8840, at 2](https://www.irs.gov/pub/irs-pdf/f8840.pdf) | Form 8840 (Closer Connection Exception Statement for Aliens), Part IV, end of lines 14–30. An alien who has other information substantiating a closer connection to a foreign country, or who wishes to explain any of the answers on lines 14 through 30 in more detail, attaches a statement to the form. | If you have any other information to substantiate your closer connection to a country other than the United States or you wish to explain in more detail any of your responses to lines 14 through 30, attach a statement to this form. |  |
 | [Form 8898, at 2](https://www.irs.gov/pub/irs-pdf/f8898.pdf) | Form 8898 (Statement for Individuals Who Begin or End Bona Fide Residence in a U.S. Territory), note following line 33. An individual who has other information substantiating a closer connection to the United States or the U.S. territory, or who wishes to explain any responses in more detail, attaches a statement to the form. | Note: If you have any other information to substantiate your closer connection to the United States or the U.S. territory, or you wish to explain in more detail any of your responses, attach a statement to this form. |  |
@@ -1336,7 +1336,7 @@ This table lists all instances that could be found where the IRS requires or req
 
 ### Optional Free-Text in Form, Attachment if Long (14)
 
-| Source | Brief Context | Actual operative text | Also at |
+| Source | Brief Context<br><img width="400" height="1"> | Actual operative text | Also at |
 |---|---|---|---|
 | [Instructions for Form 990, at 23](https://www.irs.gov/pub/irs-pdf/i990.pdf) | Instructions for Form 990, Part VI, Section B (policies). If a policy applied only at a division or department level, the organization answers “No” and may explain the scope of the policy on Schedule O. | If the policy applied only on a division-wide or department-wide level, answer “No.” The organization may explain the scope of such policy on Schedule O (Form 990). |  |
 | [Instructions for Form 990, at 23](https://www.irs.gov/pub/irs-pdf/i990.pdf) | Instructions for Form 990, Part VI, line 11a. An organization that answers “No” because it redacted information (such as donor names) from the copy of Form 990 given to its governing body may explain why on Schedule O. | Under those circumstances, the organization may explain on Schedule O (Form 990) why it answered “No” to line 11a. |  |
